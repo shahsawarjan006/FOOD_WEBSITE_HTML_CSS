@@ -1,0 +1,33 @@
+
+@media (max-width:1000){
+/* navigation */
+
+#navbar{
+    flex-direction: column;
+}
+/* hOME */
+#home{
+height: 370px;
+}
+
+#home::before{
+height: 400px;
+}
+/* services */
+#services{
+    flex-direction: column;
+
+}
+
+
+#services .box{
+
+   
+}
+/* Clients */
+#client{
+
+}
+
+
+}
